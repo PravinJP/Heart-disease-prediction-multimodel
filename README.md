@@ -1,9 +1,4 @@
-Love this stage 😄 — a strong **README can genuinely decide whether a recruiter clicks your repo or not**.
 
-Below is a **ready-to-paste README.md** written in a **recruiter-attractive, professional, project-driven style**.
-You can copy this fully and adjust your name/GitHub link if you want.
-
----
 
 # ❤️ Heart Disease Prediction System (ML + DL Ensemble)
 
