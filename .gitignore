@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# Models (optional if too large)
+*.h5
+*.keras
+
+# OS
+.DS_Store
+Thumbs.db
